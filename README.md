@@ -1,5 +1,7 @@
 # jQueryTimePlugin
 
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/66f32e05-1ad3-4a9f-973c-3030e783a7c9/small.png)](https://insight.sensiolabs.com/projects/66f32e05-1ad3-4a9f-973c-3030e783a7c9)
+
 This jQuery plugin allows you to create a timeline.
 
 <img src="http://www.vincent-chalamon.fr/uploads/jquery-timeline.png" />
