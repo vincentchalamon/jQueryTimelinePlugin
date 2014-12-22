@@ -1,4 +1,4 @@
-# jQueryTimePlugin
+# jQueryTimelinePlugin
 
 This jQuery plugin allows you to create a timeline.
 
