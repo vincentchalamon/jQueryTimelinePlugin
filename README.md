@@ -2,7 +2,7 @@
 
 This jQuery plugin allows you to create a timeline.
 
-<img src="http://www.vincent-chalamon.fr/uploads/jquery-timeline.png" />
+![](http://www.vincent-chalamon.fr/images/2015/04/jquery-timeline.png)
 
 # How to use
 
